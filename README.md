@@ -1,77 +1,30 @@
-# Technical Writing & Documentation Portfolio
+# Technical Writing Portfolio
 
-**Technical Communication | AI-Assisted Documentation | Information Architecture | Documentation QA**
+I'm building practical skills in technical writing and documentation. This repository will hold writing samples, documentation projects, and examples of how I make technical information easier to understand and use.
 
-This repository is the professional technical-writing portfolio and will contain polished documentation samples developed through certification study, applied projects, and independent practice.
+## What I'm working on
 
-## Purpose
-
-The goal is to demonstrate the ability to turn complex information into clear, accurate, usable documentation for technical and non-technical audiences.
-
-This portfolio will emphasize the intersection of **technical communication and modern AI-enabled workflows**.
-
-## Career Focus
-
-- Technical writing
-- Developer and user documentation
+- Clear technical documentation
+- User and developer documentation
 - API documentation
-- Information architecture
-- Documentation planning and maintenance
-- Editing and content quality
-- AI-assisted documentation workflows
-- Documentation QA and factual verification
-- Knowledge management
-- Agile documentation practices
+- Information structure and organization
+- Editing and documentation quality
+- AI-assisted writing and research
 
-## Repository Structure
+## Current focus
 
-```text
-.
-├── documentation-samples/  # Polished technical documentation
-├── api-documentation/      # API/developer documentation examples
-├── case-studies/           # Documentation problems and solutions
-├── style-guides/           # Editorial and documentation standards
-├── templates/              # Reusable documentation templates
-└── qa/                     # Documentation review and quality checklists
-```
+I'm researching technical-writing certifications and building small documentation projects alongside my AI studies. The goal is to learn by making real examples.
 
-## Professional Development
+## Where I'm going
 
-**Technical Writing Certification**  
-Status: Planned
+I want to build toward work that combines technical communication with AI and better workplace workflows.
 
-The specific credential will be selected after comparing current 2026 technical-writing certification options by employer recognition, cost, time requirement, prerequisites, difficulty, online availability, résumé value, portfolio value, and fit with a sustainable 10-hour/week schedule.
+See the [roadmap](ROADMAP.md) for the direction of the portfolio.
 
-## Documentation Quality Standard
+## A note about AI
 
-Published work should demonstrate:
+AI may help with brainstorming, research, outlining, or editing. The final work still needs human review for accuracy, clarity, technical meaning, and audience needs.
 
-1. Audience identification
-2. Clear information architecture
-3. Accurate technical content
-4. Appropriate terminology
-5. Task-oriented organization
-6. Examples where useful
-7. Accessibility and readability
-8. Editorial consistency
-9. Factual verification
-10. Maintenance/version considerations
+## Projects
 
-## AI-Assisted Writing Standard
-
-AI may assist with research, outlining, drafting, editing, or transformation. It does not replace human responsibility for factual accuracy, technical correctness, source verification, audience suitability, or final editorial judgment.
-
-## Roadmap
-
-- [ ] Complete technical-writing credential
-- [ ] Publish a polished user/developer documentation sample
-- [ ] Publish an API documentation sample
-- [ ] Create a documentation style guide
-- [ ] Create a documentation QA checklist
-- [ ] Build an AI-assisted documentation workflow case study
-- [ ] Demonstrate information architecture decisions
-- [ ] Connect technical-writing work with the Google AI and OpenAI portfolios
-
----
-
-**Portfolio principle:** Understand → Structure → Write → Verify → Refine → Publish.
+Writing samples will be added as they are completed. Each project should make it possible to see the problem, the audience, the choices I made, and the finished result.
